@@ -1,0 +1,38 @@
+.col-4{
+    background-color: black;
+  }
+  .col-8{
+    background-color: aqua;
+  }
+   input{
+    margin:10px 10px;
+  } 
+  .navbar-band{
+    color:white!important;
+  }
+  .navbar{
+    background-color:slategrey!important;
+  }
+  h1{
+    text-align: center;
+    margin:30px;
+  }
+  .col-5{
+    border: 1px solid #ddd;
+    height:100vh;
+  }
+  .btn-primary{
+    margin :15px 6px;
+  }
+  .btn-danger{
+    margin:2px 5px;
+  }
+  th ,td{
+    text-align: center;
+    align-items: center;
+  }
+  tbody{
+    text-align: center;
+    align-items: center;
+  }
+  
